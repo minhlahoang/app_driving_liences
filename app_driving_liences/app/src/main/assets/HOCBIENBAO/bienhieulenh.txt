@@ -1,0 +1,50 @@
+https://gplx.app/images/signs/signR122.png@@R.122@@Biển báo hiệu buộc các xe cơ giới và thô sơ kể cả xe được ưu tiên theo quy định phải dừng lại. Chỉ được phép đi nếu có người điều khiển giao thông hoặc đèn cờ cho phép đi. Nếu không thì chỉ được phép đi khi trên đường không còn nguy cơ gây mất an toàn giao thông.
+https://gplx.app/images/signs/signR301a.png@@R.301a@@Được đặt trước ngã ba, ngã tư. Các xe chỉ được đi thẳng ở khu vực ngã ba, ngã tư.
+https://gplx.app/images/signs/signR301a.png@@R.301b@@Được đặt sau ngã ba, ngã tư. Các xe chỉ được rẽ phải ở khu vực trước mặt biển.
+https://gplx.app/images/signs/signR301c.png@@R.301c@@Được đặt sau ngã ba, ngã tư. Các xe chỉ được rẽ trái ở khu vực trước mặt biển.
+https://gplx.app/images/signs/signR301d.png@@R.301d@@Được đặt trước ngã ba, ngã tư. Các xe chỉ được rẽ phải ở phạm vi ngã ba, ngã tư đằng sau mặt biển.
+https://gplx.app/images/signs/signR301e.png@@R.301e@@Được đặt trước ngã ba, ngã tư. Các xe chỉ được rẽ trái ở phạm vi ngã ba, ngã tư đằng sau mặt biển.
+https://gplx.app/images/signs/signR301e.png@@R.301f@@Được đặt trước ngã ba, ngã tư. Các xe chỉ được phép đi thẳng hay rẽ phải ở khu vực sau mặt biển.
+https://gplx.app/images/signs/signR301e.png@@R.301g@@Được đặt trước ngã ba, ngã tư. Các xe chỉ được phép đi thẳng hay rẽ trái ở khu vực sau mặt biển và được phép quay đầu xe để đi theo hướng ngược lại.
+https://gplx.app/images/signs/signR301h.png@@R.301h@@Được đặt sau ngã ba, ngã tư. Các xe chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở khu vực ngã ba, ngã tư trước mặt biển.
+https://gplx.app/images/signs/signR302a.png@@R.302a@@Hướng phải đi vòng chướng ngại vật
+https://gplx.app/images/signs/signR302b.png@@R.302b@@Hướng phải đi vòng chướng ngại vật
+https://gplx.app/images/signs/signR302c.png@@R.302c@@Hướng phải đi vòng chướng ngại vật
+https://gplx.app/images/signs/signR303.png@@R.303@@Biển có hiệu lực bắt buộc các xe muốn chuyển hướng phải chạy vòng theo đảo an toàn theo hướng mũi tên tại nơi đường giao nhau (ngã ba, ngã tư).
+https://gplx.app/images/signs/signR304.png@@R.304@@Biển báo đường dành cho xe thô sơ (kể cả xe của người khuyết tật) và người đi bộ, bắt buộc phải đi theo đường dành riêng này, cấm phương tiện giao thông cơ giới kể cả các xe được ưu tiên theo Luật Giao thông đường bộ đi vào đường đã đặt biển này, trừ trường hợp đi cắt ngang qua nhưng phải bảo đảm tuyệt đối an toàn cho người đi bộ.
+https://gplx.app/images/signs/signR305.png@@R.305@@Biển báo đường dành riêng cho người đi bộ.Các phương tiện giao thông đường bộ kể cả xe được ưu tiên theo Luật Giao thông đường bộ không được phép đi vào, trừ trường hợp đi cắt ngang qua, nhưng phải bảo đảm tuyệt đối an toàn cho người đi bộ.
+https://gplx.app/images/signs/signR306.png@@R.306@@Biển báo tốc độ tối thiểu cho phép. Biển có hiệu lực bắt buộc các loại xe cơ giới chạy với tốc độ không nhỏ hơn trị số ghi trên biển trong điều kiện giao thông thuận lợi và an toàn. Các loại xe có tốc độ tối đa theo quy định của nhà sản xuất không đạt tốc độ tối thiểu đã ghi trên biển không được phép đi vào đường này.
+https://gplx.app/images/signs/signR307.png@@R.307@@Biển báo hết đoạn đường hạn chế tốc độ tối thiểu. Kể từ biển này các xe được phép chạy chậm hơn trị số ghi trên biển nhưng không được gây cản trở các xe khác.
+https://gplx.app/images/signs/signR308a.png@@R.308a@@Biển số R.308a báo cho người lái xe chỉ được đi thẳng hoặc rẽ trái trên cầu vượt.
+https://gplx.app/images/signs/signR308b.png@@R.308b@@Biển số R.308b báo cho người lái xe chỉ được đi thẳng hoặc rẽ phải trên cầu vượt.
+https://gplx.app/images/signs/signR308b.png@@R.309@@Biển báo lệnh cho người lái xe phải bấm còi.
+https://gplx.app/images/signs/signR310a.png@@R.310a@@Hướng đi phải theo cho xe chở hàng nguy hiểm
+https://gplx.app/images/signs/signR310b.png@@R.310b@@Hướng đi phải theo cho xe chở hàng nguy hiểm
+https://gplx.app/images/signs/signR310c.png@@R.310c@@Hướng đi phải theo cho xe chở hàng nguy hiểm
+https://gplx.app/images/signs/signR403a.png@@R.403a@@Biển báo hiệu bắt đầu đường dành cho các loại ôtô đi lại.
+https://gplx.app/images/signs/signR403b.png@@R.403b@@Biển báo hiệu bắt đầu đường dành cho các loại ôtô, xe máy (kể cả xe gắn máy).
+https://gplx.app/images/signs/signR404a.png@@R.404a@@Đến hết đoạn đường dành cho ôtô đi lại
+https://gplx.app/images/signs/signR404b.png@@R.404b@@Đến hết đoạn đường dành cho ôtô, xe máy đi lại
+https://gplx.app/images/signs/signR411.png@@R.411@@Biển báo hiệu cho người tham gia giao thông biết số lượng làn đường trên mặt đường và hướng đi trên mỗi làn đường theo vạch kẻ đường.
+https://gplx.app/images/signs/signR412a.png@@R.412a@@Biển báo hiệu làn đường dành riêng cho ôtô khách (kể cả ôtô buýt).
+https://gplx.app/images/signs/signR412b.png@@R.412b@@Làn đường dành cho xe con
+https://gplx.app/images/signs/signR412c.png@@R.412c@@Làn đường dành cho xe tải
+https://gplx.app/images/signs/signR412d.png@@R.412d@@Làn đường dành cho xe mô tô
+https://gplx.app/images/signs/signR412f.png@@R.412f@@Làn đường dành cho xe ô tô
+https://gplx.app/images/signs/signR413i.png@@R.413i@@Kết thúc làn đường dành cho xe khách
+https://gplx.app/images/signs/signR413j.png@@R.413j@@Kết thúc làn đường dành cho xe con
+https://gplx.app/images/signs/signR413k.png@@R.413k@@Kết thúc làn đường dành cho xe tải
+https://gplx.app/images/signs/signR413l.png@@R.413l@@Kết thúc làn đường dành cho xe mô tô
+https://gplx.app/images/signs/signR413n.png@@R.413n@@Kết thúc làn đường dành cho xe ô tô
+https://gplx.app/images/signs/signR415.png@@R.415@@Biển gộp làn đường theo phương tiện
+https://gplx.app/images/signs/signR420.png@@R.420@@Biển báo hiệu bắt đầu đoạn đường vào phạm vi khu đông dân cư. Biển có tác dụng báo cho người tham gia giao thông biết phạm vi phải tuân theo những quy định đi đường được áp dụng ở khu đông dân cư.
+https://gplx.app/images/signs/signR421.png@@R.421@@Biển báo hiệu hết đoạn đường qua phạm vi khu đông dân cư. Biển có tác dụng báo cho người tham gia giao thông biết phạm vi phải tuân theo những quy định đi đường được áp dụng ở khu đông dân cư đã hết hiệu lực.
+https://gplx.app/images/signs/signRE9a.png@@R.E,9a@@Biển báo Cấm đỗ xe trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).
+https://gplx.app/images/signs/signRE9b.png@@R.E,9b@@Biển báo Cấm đỗ xe theo giờ trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).
+https://gplx.app/images/signs/signRE9c.png@@R.E,9c@@Biển báo khu vực đỗ xe trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).
+https://gplx.app/images/signs/signRE9d.png@@R.E,9d@@Để quy định hạn chế tốc độ tối đa trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).
+https://gplx.app/images/signs/signRE10a.png@@R.E,10a@@Để báo hiệu hết cấm đỗ xe theo giờ trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).
+https://gplx.app/images/signs/signRE10c.png@@R.E,10c@@Để quy định hết khu vực đỗ xe trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).
+https://gplx.app/images/signs/signRE10d.png@@R.E,10d@@Để quy định hết hạn chế tốc độ tối đa trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).
+https://gplx.app/images/signs/signRE11a.png@@R.E,11a@@Chỉ dẫn đoạn đường qua hầm có áp dụng quy định giao thông riêng.
+https://gplx.app/images/signs/signRE11b.png@@R.E,11b@@Chỉ dẫn hết đoạn đường qua hầm, các quy định giao thông riêng không còn áp dụng.

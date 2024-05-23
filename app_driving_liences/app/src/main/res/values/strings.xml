@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AppDrivingLience</string>
+    <string name="day_1">Ngày Thứ 1</string>
+    <string name="day_2">Ngày Thứ 2</string>
+    <string name="day_3">Ngày Thứ 3</string>
+    <string name="day_4">Ngày Thứ 4</string>
+    <string name="content_day_1">Dành 8 tiếng học hết các loại biển báo hay gặp. Tập trung vào biển báo cấm, hiệu lệnh, chỉ dẫn, nguy hiểm...</string>
+    <string name="content_day_2">Học lý thuyết và mẹo làm của từng câu, nhớ các định nghĩa cơ bản (nồng độ cồn, tốc độ cho phép..), học mẹo làm câu hỏi sa hình...</string>
+    <string name="content_day_3">Tiến hành làm các bộ đề thi của hạng bằng lái xe mà bạn thi. Hãy xáo trộn đề thi và làm đến khi điểm thi của bạn đều đạt</string>
+    <string name="content_day_4">Nếu bạn đã hoàn thành ba bước trên, thì bạn chỉ cần giữ tự tin và bình tĩnh khi thi. Chúc bạn thi đỗ với điểm số tối đa</string>
+
+
+    <string name="skip">Bỏ qua</string>
+    <string name="continous">Tiếp tục</string>
+    <string name="a1">Xe mô tô 2 bánh có dung tích xi lanh dưới 175 cm3</string>
+
+</resources>

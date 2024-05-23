@@ -1,0 +1,62 @@
+https://gplx.app/images/signs/signP101.png@@P.101@@Biển báo đường cấm tất cả các loại phương tiện tham gia giao thông đi lại cả hai hướng, trừ xe ưu tiên theo luật định.
+https://gplx.app/images/signs/signP102.png@@P.102@@Biển báo đường cấm tất cả các loại phương tiện tham gia giao thông đi vào theo chiều đặt biển.
+https://gplx.app/images/signs/signP103a.png@@P.103a@@Biển báo đường cấm tất cả các loại xe cơ giới kể cả mô tô 3 bánh có thùng đi qua, trừ xe mô tô 2 bánh, xe gắn máy (kể cả xe máy điện) và các xe được ưu tiên theo Luật Giao thông đường bộ.
+https://gplx.app/images/signs/signP103b.png@@P.103b@@Biển báo đường cấm xe ô tô rẽ phải ( kể cả xe mô tô ba bánh), trừ các xe được ưu tiên theo Luật Giao thông đường bộ.
+https://gplx.app/images/signs/signP103c.png@@P.103c@@Biển báo đường cấm xe ô tô rẽ trái và cũng không được phép quay đầu xe, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.
+https://gplx.app/images/signs/signP104.png@@P.104@@Biển báo đường cấm tất cả các loại mô tô đi qua, trừ các loại xe mô tô được ưu tiên theo Luật Giao thông đường bộ.
+https://gplx.app/images/signs/signP105.png@@P.105@@Biển báo đường cấm tất cả xe cơ giới và xe mô tô đi qua trừ xe gắn máy và xe được ưu tiên theo Luật Giao thông đường bộ.
+https://gplx.app/images/signs/signP106a.png@@P.106a@@Biển báo đường cấm tất cả các loại xe ô tô tải trừ các xe được ưu tiên theo Luật Giao thông đường bộ, hiệu lực cấm đối với cả máy kéo và xe máy chuyên dùng.
+https://gplx.app/images/signs/signP106b.png@@P.106b@@Trọng lượng được tính theo tấn ghi trên biển
+https://gplx.app/images/signs/signP106c.png@@P.106c@@Biển báo P.106c đường cấm tất cả các loại xe ô tô tải chở hàng nguy hiểm.
+https://gplx.app/images/signs/signP107.png@@P.107@@Biển báo đường cấm xe ô tô khách và các loại xe ô tô tải, kể cả máy kéo và xe máy chuyên dùng đi qua, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.
+https://gplx.app/images/signs/signP107a.png@@P.107a@@Biển báo đường cấm ôtô chở khách đi qua trừ các xe ưu tiên theo quy định. Biển này không cấm xe buýt.
+https://gplx.app/images/signs/signP107b.png@@P.107b@@Biển báo đường cấm ôtô taxi đi lại. Trường hợp cấm xe ôtô taxi theo giờ thì đặt biển phụ ghi giờ cấm.
+https://gplx.app/images/signs/signP108.png@@P.108@@Cấm ôtô kéo rơ moóc@@Biển báo đường cấm tất cả các loại xe cơ giới kéo theo rơ moóc kể cả xe mô tô, máy kéo, xe ô tô khách kéo theo rơ moóc đi qua, trừ loại xe ô tô sơ mi rơ moóc và các xe được ưu tiên theo Luật Giao thông đường bộ (có kéo theo rơ moóc).
+https://gplx.app/images/signs/signP108a.png@@P.108a@@Biển báo đường cấm các loại xe sơ-mi-rơ-moóc và các xe kéo rơ- moóc trừ các xe được ưu tiên (có dạng xe sơ-mi-rơ-moóc hoặc có kéo theo rơ-moóc) theo quy định.
+https://gplx.app/images/signs/signP109.png@@P.109@@Biển báo đường cấm tất cả các loại máy kéo, kể cả máy kéo bánh hơi và bánh xích đi qua.
+https://gplx.app/images/signs/signP110a.png@@P.110a@@Biển báo đường cấm xe đạp đi qua. Biển không có giá trị cấm những người dắt xe đạp.
+https://gplx.app/images/signs/signP110b.png@@P.110b@@Biển báo đường cấm xe đạp thồ đi qua. Biển không có giá trị cấm người dắt loại xe này.
+https://gplx.app/images/signs/signP111a.png@@P.111a@@Biển báo đường cấm xe gắn máy đi qua. Biển không có giá trị cấm đối với xe đạp.
+https://gplx.app/images/signs/signP112.png@@P.112@@Biển báo đường cấm người đi bộ qua lại.
+https://gplx.app/images/signs/signP113.png@@P.113@@Biển báo đường cấm xe người kéo đẩy đi qua. Biển không có giá trị cấm những xe nôi của trẻ em và phương tiện chuyên dùng để đi lại của những người khuyết tật.
+https://gplx.app/images/signs/signP114.png@@P.114@@Biển báo đường cấm súc vật vận tải hàng hóa hoặc hành khách dù kéo xe hay chở trên lưng đi qua.
+https://gplx.app/images/signs/signP115.png@@P.115@@Biển báo đường cấm các loại phương tiện giao thông đường bộ kể cả các xe được ưu tiên theo Luật Giao thông đường bộ có trọng lượng toàn bộ (cả xe và hàng) vượt quá trị số ghi trên biển tính bằng tấn đi qua.
+https://gplx.app/images/signs/signP116.png@@P.116@@Biển báo đường cấm các loại phương tiện giao thông đường bộ, kể cả các xe được ưu tiên theo Luật Giao thông đường bộ có trọng lượng toàn bộ (cả xe và hàng) phân bố trên một trục bất kỳ của xe vượt quá trị số ghi trên biển tính bằng tấn đi qua.
+https://gplx.app/images/signs/signP117.png@@P.117@@Biển có hiệu lực cấm các loại phương tiện giao thông đường bộ đi qua, kể cả các xe được ưu tiên theo Luật Giao thông đường bộ có chiều cao (tính đến điểm cao nhất cả xe và hàng hóa) vượt quá trị số ghi trên biển tính bằng mét đi qua.
+https://gplx.app/images/signs/signP118.png@@P.118@@Biển có hiệu lực cấm các loại phương tiện giao thông đường bộ kể cả các xe được ưu tiên theo Luật Giao thông đường bộ có chiều ngang (cả xe và hàng hóa) vượt quá trị số ghi trên biển tính bằng mét đi qua.
+https://gplx.app/images/signs/signP119.png@@P.119ô@@Biển báo đường cấm các loại xe (cơ giới và thô sơ), kể cả các xe được ưu tiên theo Luật Giao thông đường bộ, có độ dài toàn bộ (cả xe và hàng) vượt quá trị số ghi trên biển tính bằng mét đi qua.
+https://gplx.app/images/signs/signP120.png@@P.120@@Biển báo đường cấm các loại phương tiện giao thông đường bộ kéo theo rơ moóc kể cả ô tô sơ mi rơ moóc và các xe được ưu tiên theo Luật Giao thông đường bộ kéo theo rơ moóc có độ dài toàn bộ (cả xe, rơ moóc và hàng) vượt quá trị số ghi trên biển đi qua.
+https://gplx.app/images/signs/signP121.png@@P.121@@Biển báo xe ô tô phải đi cách nhau một khoảng tối thiểu. Biển có hiệu lực cấm các xe ô tô không được đi cách nhau với cự ly nhỏ hơn trị số ghi trên biển tính bằng mét, kể cả các xe được ưu tiên theo Luật Giao thông đường bộ.
+https://gplx.app/images/signs/signP123a.png@@P.123a@@Biển báo đường cấm các loại phương tiện giao thông đường bộ (xe cơ giới và xe thô sơ) rẽ trái, trừ các xe được ưu tiên theo Luật Giao thông đường bộ. Biển không có giá trị cấm quay đầu xe.
+https://gplx.app/images/signs/signP123b.png@@P.123b@@Biển báo đường cấm các loại phương tiện giao thông đường bộ (xe cơ giới và xe thô sơ) rẽ phải, trừ các xe được ưu tiên theo Luật Giao thông đường bộ. Biển không có giá trị cấm quay đầu xe.
+https://gplx.app/images/signs/signP124a.png@@P.124a@@Biển báo đường cấm các loại phương tiện giao thông đường bộ quay đầu xe theo kiểu chữ U, trừ các xe được ưu tiên theo Luật Giao thông đường bộ. Biển không có giá trị cấm rẽ trái để sang hướng đường khác.
+https://gplx.app/images/signs/signP124a.png@@P.124b@@Biển báo đường cấm xe ô tô và xe mô tô 3 bánh quay đầu xe theo kiểu chữ U, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.
+https://gplx.app/images/signs/signP124c.png@@P.124c@@Biển báo cấm các loại xe rẽ trái đồng thời cấm quay đầu, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.
+https://gplx.app/images/signs/signP124d.png@@P.124d@@Biển báo cấm các loại xe rẽ phải đồng thời cấm quay đầu, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.
+https://gplx.app/images/signs/signP124e.png@@P.124e@@Biển báo cấm xe ôtô rẽ trái và đồng thời cấm quay đầu phải, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.
+https://gplx.app/images/signs/signP124f.png@@P.124f@@Biển báo cấm xe ôtô rẽ phải và đồng thời cấm quay đầu phải, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.
+https://gplx.app/images/signs/signP125.png@@P.125@@Biển có hiệu lực cấm tất cả các loại xe cơ giới vượt nhau, kể cả các xe được ưu tiên theo Luật Giao thông đường bộ. được phép vượt xe mô tô 2 bánh, xe gắn máy. Biển hết hiệu lực cấm khi có biển số DP.133 'Hết cấm vượt' hoặc đến chỗ có biển số DP.135 'Hết tất cả các lệnh cấm' nếu đồng thời có nhiều biển cấm khác hết tác dụng.
+https://gplx.app/images/signs/signP126.png@@P.126@@Biển có hiệu lực cấm các loại ôtô tải có khối lượng chuyên chở (theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ) lớn hơn 3.500 kg (3,5 tấn) kể cả các xe được ưu tiên theo quy định vượt xe cơ giới khác. được phép vượt xe máy 2 bánh, xe gắn máy. Biển không có giá trị cấm các loại xe cơ giới khác vượt nhau và vượt xe ô tô tải.
+https://gplx.app/images/signs/signP127.png@@P.127@@Biển có hiệu lực cấm tất cả các loại xe cơ giới đường bộ chạy với tốc độ tối đa vượt quá trị số ghi trên biển (tính bằng km/h), trừ các xe được ưu tiên theo Luật Giao thông đường bộ.
+https://gplx.app/images/signs/signP127a.png@@P.127a@@Biển có hiệu lực cấm tất cả các loại xe cơ giới đường bộ chạy ban đêm với tốc độ tối đa vượt quá trị số ghi trên biển (tính bằng km/h), trừ một số trường hợp ưu tiên được quy định.
+https://gplx.app/images/signs/signP127b.png@@P.127b@@Biển ghép tốc độ tối đa cho phép trên từng làn đường
+https://gplx.app/images/signs/signP127c.png@@P.127c@@Biển ghép tốc độ tối đa cho phép theo phương tiện, trên từng làn đường
+P.127d: Biển hết hạn chế tốc độ tối đa@@Biển hết hạn chế tốc độ tối đa cho phép theo biển ghép
+https://gplx.app/images/signs/signP127d.png@@P.128@@Biển báo cấm các loại xe cơ giới sử dụng còi.
+https://gplx.app/images/signs/signP129.png@@P.129@@Biển báo nơi đặt trạm kiểm tra, các loại phương tiện vận tải qua đó phải dừng lại để làm thủ tục kiểm tra, kiểm soát theo quy định.
+https://gplx.app/images/signs/signP130.png@@P.130@@Biển có hiệu lực cấm các loại xe cơ giới đường bộ dừng và đỗ lại ở phía đường có đặt biển,
+https://gplx.app/images/signs/signP131a.png@@P.131a@@Biển số 131a có hiệu lực cấm các loại xe cơ giới đỗ ở phía đường có đặt biển vào bất kể ngày nào.
+https://gplx.app/images/signs/signP131b.png@@P.131b@@Biển có hiệu lực cấm các loại xe cơ giới đỗ ở phía đường có đặt biển vào những ngày lẻ.
+https://gplx.app/images/signs/signP131c.png@@P.131c@@Biển có hiệu lực cấm các loại xe cơ giới đỗ ở phía đường có đặt biển vào những ngày chẵn.
+https://gplx.app/images/signs/signP132.png@@P.132@@Biển báo cho các loại phương tiện giao thông đường bộ (cơ giới và thô sơ), kể cả các xe được ưu tiên theo Luật Giao thông đường bộ đi theo chiều nhìn thấy biển phải nhường đường cho các loại xe cơ giới đi theo chiều ngược lại khi đi qua các đoạn đường và cầu hẹp.
+https://gplx.app/images/signs/signDP133.png@@DP.133@@Biển báo cho người lái xe biết hiệu lực của biển số P.125 'Cấm vượt' và biển số P.126 'Cấm ô tô tải vượt' hết tác dụng.
+https://gplx.app/images/signs/signDP134.png@@DP.134@@Biển báo cho người lái xe biết hiệu lực của biển số P.127 'Hạn chế tốc độ tối đa' hết tác dụng. Kể từ biển này, các xe được phép chạy với tốc độ tối đa đã quy định trong Luật Giao thông đường bộ.
+https://gplx.app/images/signs/signDP135.png@@DP.135@@Biển báo cho người lái xe biết hiệu lực của biển số P.121 'Cự ly tối thiểu giữa hai xe' và các biển từ biển số P.125 đến P.131 (a, b, c) được đặt trước đó cùng hết tác dụng.
+https://gplx.app/images/signs/signP136.png@@P.136@@Biển được đặt trước nơi đường giao nhau và có hiệu lực cấm tất cả các loại phương tiện giao thông đường bộ (cơ giới và thô sơ) đi thẳng ở nơi đường giao nhau.
+https://gplx.app/images/signs/signP137.png@@P.137@@Biển được đặt trước nơi đường giao nhau và có hiệu lực cấm tất cả các loại phương tiện giao thông đường bộ (cơ giới và thô sơ) rẽ trái và rẽ phải ở nơi đường giao nhau.
+https://gplx.app/images/signs/signP138.png@@P.138@@Biển được đặt trước nơi đường giao nhau và có hiệu lực cấm tất cả các loại phương tiện giao thông đường bộ (cơ giới và thô sơ) đi thẳng và rẽ trái ở nơi đường giao nhau.
+https://gplx.app/images/signs/signP139.png@@P.139@@Biển được đặt trước nơi đường giao nhau và có hiệu lực cấm tất cả các loại phương tiện giao thông đường bộ (cơ giới và thô sơ) đi thẳng và rẽ phải ở nơi đường giao nhau.
+https://gplx.app/images/signs/signP140.png@@P.140@@Biển báo đường cấm tất cả các loại xe công nông và các loại xe tương tự đi qua.
+https://gplx.app/images/signs/signS508a.png@@S.508a@@Khi cần báo hiệu cấm các loại phương tiện giao thông đường bộ theo giờ trong thành phố, thị xã phải đặt biển phụ số S508(a,b) dưới biển cấm và có chú thích bằng tiếng Việt, phụ đề tiếng Anh trong biển này.
+https://gplx.app/images/signs/signS508b.png@@S.508b@@Khi cần báo hiệu cấm các loại phương tiện giao thông đường bộ theo giờ trong thành phố, thị xã phải đặt biển phụ số S508(a,b) dưới biển cấm và có chú thích bằng tiếng Việt, phụ đề tiếng Anh trong biển này.
+

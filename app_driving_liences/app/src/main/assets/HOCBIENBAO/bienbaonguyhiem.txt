@@ -1,0 +1,83 @@
+https://gplx.app/images/signs/signW201a.png@@W.201a@@Chỗ ngoặt nguy hiểm bên trái
+https://gplx.app/images/signs/signW201a.png@@W.201b@@Chỗ ngoặt nguy hiểm bên phải
+https://gplx.app/images/signs/signW201c.png@@W.201c@@Biển số W.201c chỗ ngoặt nguy hiểm có nguy cơ lật xe bên phải khi đường cong vòng sang trái.
+https://gplx.app/images/signs/signW201d.png@@W.201d@@Biển số W.201d chỗ ngoặt nguy hiểm có nguy cơ lật xe bên trái khi đường cong vòng bên phải.
+https://gplx.app/images/signs/signW201d.png@@W.202a@@Biển báo sắp đến đoạn đường ngoặt liên tiếp (có từ 3 đoạn cong ngược chiều nhau) rất nguy hiểm, người lái xe cần giảm tốc độ.
+https://gplx.app/images/signs/signW202b.png@@W.202b@@Biển báo sắp đến đoạn đường ngoặt liên tiếp (có từ 3 đoạn cong ngược chiều nhau) rất nguy hiểm, người lái xe cần giảm tốc độ.
+https://gplx.app/images/signs/signW203a.png@@W.203a:@@Đường bị hẹp cả hai bên
+https://gplx.app/images/signs/signW203b.png@@W.203b@@Đường bị hẹp bên trái
+https://gplx.app/images/signs/signW203c.png@@W.203c@@Đường bị hẹp bên phải
+https://gplx.app/images/signs/signW204.png@@W.204@@Đường hai chiều.Biển báo hiệu sắp đến đoạn đường chỉ có một làn đường mà tạm thời (đường do sửa chữa hoặc có trở ngại ở một phía đường mà phải tổ chức đi lại cho phương tiện cả hai chiều trên phía đường còn lại) hay thường xuyên các chiều xe đi và về vẫn phải dùng chung. Khi qua đoạn đường này, lái xe cần thận trọng với xe phía chiều ngược lại.
+https://gplx.app/images/signs/signW205a.png@@W.205a@@Biển báo hiệu sắp đến nơi giao nhau của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng.
+https://gplx.app/images/signs/signW205b.png@@W.205b@@Biển báo hiệu sắp đến nơi giao nhau của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng.
+https://gplx.app/images/signs/signW205c.png@@W.205c:@@Biển báo hiệu sắp đến nơi giao nhau của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng.
+https://gplx.app/images/signs/signW205d.png@@W.205d@@Biển báo hiệu sắp đến nơi giao nhau của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng.
+https://gplx.app/images/signs/signW205e.png@@W.205e@@Biển báo hiệu sắp đến nơi giao nhau của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng.
+https://gplx.app/images/signs/signW206.png@@W.206@@Giao nhau chạy theo vòng xuyến.Biển báo hiệu nơi giao nhau có bố trí đảo an toàn ở giữa điểm giao, các loại xe qua điểm giao vòng trái phải đi vòng xuyến qua đảo an toàn.
+https://gplx.app/images/signs/signW207a.png@@W.207a@@Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.
+https://gplx.app/images/signs/signW207b.png@@W.207b:@@Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.
+https://gplx.app/images/signs/signW207c.png@@W.207c@@Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.
+https://gplx.app/images/signs/signW207c.png@@W.207d@@Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.
+https://gplx.app/images/signs/signW207c.png@@W.207e@@Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.
+https://gplx.app/images/signs/signW207f.png@@W.207f@@Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.
+https://gplx.app/images/signs/signW207g.png@@W.207g@@Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.
+https://gplx.app/images/signs/signW207h.png@@W.207h@@Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.
+https://gplx.app/images/signs/signW207i.png@@W.207i@@Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.
+https://gplx.app/images/signs/signW207i.png@@W.207k@@Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.
+https://gplx.app/images/signs/signW207l.png@@W.207l:@@Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.
+https://gplx.app/images/signs/signW208.png@@W.208:@@Biển báo hiệu đường không đươc ưu tiên sắp đến nơi giao nhau với đường ưu tiên (biển được đặt trên đường không ưu tiên). Các xe đi trên đường có đặt biển này phải nhường đường cho xe đi trên đường ưu tiên khi qua nơi giao nhau, trừ các loại xe được ưu tiên theo Luật Giao thông đường bộ.
+https://gplx.app/images/signs/signW209.png@@W.209@@Biển báo hiệu nơi giao nhau có sự điều khiển giao thông bằng tín hiệu đèn.
+https://gplx.app/images/signs/signW210.png@@W.210@@Biển báo hiệu sắp đến chỗ giao nhau giữa đường bộ và đường sắt có rào chắn kín hay nửa kín ở cả hai bên đường sắt và có nhân viên ngành đường sắt điều khiển giao thông.
+https://gplx.app/images/signs/signW211a.png@@W.211a@@Biển báo hiệu sắp đến chỗ giao nhau giữa đường bộ và đường sắt hoặc đường bộ và đường sắt có từng đoạn đi chung với nhau không có rào chắn, không có người điều khiển giao thông.
+https://gplx.app/images/signs/signW211b.png@@W.211b@@Biển báo hiệu sắp đến chỗ giao nhau cùng mức giữa đường bộ với đường tàu điện.
+https://gplx.app/images/signs/signW212.png@@W.212@@Biển báo hiệu sắp đến cầu hẹp (loại cầu có chiều rộng lòng cầu nhỏ hơn hoặc bằng 4,5 m). Khi qua cầu này, lái xe phải đi chậm, quan sát, nhường nhau và dừng lại chờ ở hai đầu cầu.
+https://gplx.app/images/signs/signW212.png@@W.213@@Biển báo hiệu sắp đến cầu tạm (loại cầu được làm để sử dụng tạm thời cho xe qua lại). Khi gặp biển này lái xe cần thận trọng và lưu ý sau mỗi trận mưa lũ hoặc khi nước ngập nhất thiết không qua cầu.
+https://gplx.app/images/signs/signW214.png@@W.214@@Biển báo hiệu sắp đến cầu xoay, cầu cất (loại cầu trong từng thời gian có cắt giao thông đường bộ để cho tàu thuyền qua lại). Các phương tiện đi trên đường bộ phải chờ đợi.
+https://gplx.app/images/signs/signW215a.png@@W.215a@@Biển báo hiệu sắp đến những chỗ có kè, vực sâu hoặc bờ sông áp sát đường, lái xe cần đề phòng tình huống nguy hiểm vượt kè, tụt xuống vực sâu (thường xảy ra ở những chỗ nguy hiểm).
+https://gplx.app/images/signs/signW215b.png@@W.215b@@Biển báo hiệu sắp đến những chỗ có kè, vực sâu hoặc bờ sông áp sát đường, lái xe cần đề phòng tình huống nguy hiểm vượt kè, tụt xuống vực sâu (thường xảy ra ở những chỗ nguy hiểm).
+https://gplx.app/images/signs/signW215c.png@@W.215c@@Biển báo hiệu sắp đến những chỗ có kè, vực sâu hoặc bờ sông áp sát đường, lái xe cần đề phòng tình huống nguy hiểm vượt kè, tụt xuống vực sâu (thường xảy ra ở những chỗ nguy hiểm).
+https://gplx.app/images/signs/signW216a.png@@W.216a@@Biển báo hiệu sắp đến chỗ có đường ngầm (đường tràn), đoạn đường vượt qua sông, suối, khe cạn mà nước có thể tràn qua thường xuyên hoặc khi có lũ.
+https://gplx.app/images/signs/signW216b.png@@W.216b@@Biển báo hiệu sắp đến chỗ có đường ngầm (đường tràn), đoạn đường vượt qua sông, suối, khe cạn thường xuyên có lũ quét.
+https://gplx.app/images/signs/signW217.png@@W.217@@Biển báo hiệu sắp đến bến phà. Người tham gia giao thông đường bộ phải tuân theo nội quy bến phà.
+https://gplx.app/images/signs/signW218.png@@W.218@@Biển báo hiệu sắp đến chỗ đường có cổng chui, kiểu cổng tò vò chắn ngang như cổng đường hầm, cổng thành, cầu vượt đường bộ dạng cầu vòm...
+https://gplx.app/images/signs/signW219.png@@W.219@@Biển báo hiệu sắp đến chỗ dốc xuống nguy hiểm. Trị số ghi trong biển chỉ độ dốc thực tế tính bằng %.
+https://gplx.app/images/signs/signW220.png@@W.220@@Biển báo hiệu sắp đến chỗ dốc lên nguy hiểm. Trị số ghi trong biển chỉ độ dốc thực tế tính bằng %.
+https://gplx.app/images/signs/signW221a.png@@W.221a@@Đường ổ gà, sống trâu
+https://gplx.app/images/signs/signW221b.png@@W.221b@@Đường có sóng mấp mô nhân tạo
+https://gplx.app/images/signs/signW222a.png@@W.222a@@@@Biển báo hiệu sắp đến đoạn đường có thể xảy ra trơn trượt đặc biệt là khi thời tiết xấu, mưa phùn. Lái xe cần tránh hãm phanh, tăng ga, sang số đột ngột hoặc cho xe chạy với tốc độ cao.
+https://gplx.app/images/signs/signW222b.png@@W.222b@@Lề đường nguy hiểm
+https://gplx.app/images/signs/signW222b.png@@W.223a@@Vách núi nguy hiểm
+https://gplx.app/images/signs/signW223b.png@@W.223b@@Vách núi nguy hiểm
+https://gplx.app/images/signs/signW224.png@@W.224@@Biển báo hiệu sắp đến phần đường ngang dành cho người đi bộ. Gặp biển này các lái xe phải nhường đường cho người đi bộ.
+https://gplx.app/images/signs/signW225.png@@W.225@@Biển báo hiệu gần đến đoạn đường thường có trẻ em đi ngang qua hoặc tụ tập trên đường như ở vườn trẻ, trường học, câu lạc bộ đi ra. Chiều dài của đoạn đường này có thể được chỉ dẫn bằng biển phụ số 501 'Phạm vi tác dụng của biển' đặt bên dưới biển chính.
+https://gplx.app/images/signs/signW226.png@@W.226@@Biển báo hiệu gần đến chỗ thường có người đi xe đạp từ những đường nhỏ cắt ngang qua hoặc từ đường dành cho xe đạp đi nhập vào đường ô tô.
+https://gplx.app/images/signs/signW227.png@@W.227@@Công trường
+https://gplx.app/images/signs/signW228a.png@@W.228a@@Đá lở
+https://gplx.app/images/signs/signW228a.png@@W.228b@@Đá lở
+https://gplx.app/images/signs/signW228c.png@@W.228c@@Sỏi đá bắn lên
+https://gplx.app/images/signs/signW228c.png@@W.228d@@Nền đường yếu
+https://gplx.app/images/signs/signW228c.png@@W.229@@Dải máy bay lên xuống
+https://gplx.app/images/signs/signW230.png@@W.230@@Gia súc
+https://gplx.app/images/signs/signW231.png@@W.231@@Thú rừng vượt qua đường
+https://gplx.app/images/signs/signW232.png@@W.232@@Gió ngang
+https://gplx.app/images/signs/signW232.png@@W.233@@Nguy hiểm khác
+https://gplx.app/images/signs/signW234.png@@W.234@@Biển báo hiệu trên đường một chiều sắp đến chỗ giao nhau với đường hai chiều.
+https://gplx.app/images/signs/signW235.png@@W.235@@Biển báo hiệu sắp đến đoạn đường đôi (chiều đi và chiều về phân biệt rõ ràng bằng giải phân cách cứng).
+https://gplx.app/images/signs/signW236.png@@W.236@@Biển báo hiệu sắp kết thúc đoạn đường đôi (đoạn đường hết giải phân cách cứng).
+https://gplx.app/images/signs/signW237.png@@W.237@@Biển báo hiệu sắp đến chiếc cầu có độ vồng rất lớn ảnh hưởng tới tầm nhìn.
+https://gplx.app/images/signs/signW238.png@@W.238@@Biển báo hiệu sắp đến đường cao tốc.
+https://gplx.app/images/signs/signW239.png@@W.239@@Đường cáp điện ở phía trên
+https://gplx.app/images/signs/signW240.png@@W.240@@Biển báo hiệu sắp tới đường hầm (đường chạy hai chiều xe mà chiếu sáng lại không tốt).
+https://gplx.app/images/signs/signW241.png@@W.241@@Ùn tắc giao thông
+https://gplx.app/images/signs/signW242a.png@@W.242a@@Biển W.242a báo hiệu chỗ giao nhau chỉ có một đường sắt cắt ngang đường bộ.
+https://gplx.app/images/signs/signW242b.png@@W.242b@@Nơi 2 đường sắt giao nhau với đường bộ
+https://gplx.app/images/signs/signW243a.png@@W.243a@@Nơi đường sắt giao không vuông góc với đường bộ.Đặt cách ray đường sắt gần nhất 50m
+https://gplx.app/images/signs/signW243a.png@@W.243b@@Nơi đường sắt giao không vuông góc với đường bộ.Đặt cách ray đường sắt gần nhất 100m
+https://gplx.app/images/signs/signW243c.png@@W.243c@@Nơi đường sắt giao không vuông góc với đường bộ.Đặt cách ray đường sắt gần nhất 150m
+https://gplx.app/images/signs/signW244.png@@W.244@@Biển báo hiệu đoạn đường phía trước thường xảy ra tai nạn để lái xe cần đặc biệt chú ý.
+https://gplx.app/images/signs/signW245a.png@@W.245a@@Đi chậm
+https://gplx.app/images/signs/signW245b.png@@W.245b@@Đi chậm
+https://gplx.app/images/signs/signW246a.png@@W.246a@@Biển báo hiệu phía trước có chướng ngại vật. người lái xe cần giảm tốc độ đi vòng tránh sang hai bên.
+https://gplx.app/images/signs/signW246b.png@@W.246b@@Biển báo hiệu phía trước có chướng ngại vật. người lái xe cần giảm tốc độ đi vòng tránh sang bên trái.
+https://gplx.app/images/signs/signW246c.png@@W.246c@@Biển báo hiệu phía trước có chướng ngại vật. người lái xe cần giảm tốc độ đi vòng tránh sang bên phải.
+https://gplx.app/images/signs/signW247.png@@W.247@@Chú ý xe đỗ
